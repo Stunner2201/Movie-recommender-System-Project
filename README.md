@@ -1,1 +1,2 @@
 # Movie-recommender-System-Project
+The goal of this data science project is to develop a robust and efficient movie recommender system. This system aims to suggest movies to users based on their preferences and viewing history. By leveraging various data science techniques such as collaborative filtering, content-based filtering, and hybrid methods, the recommender system will provide personalized movie recommendations to enhance user experience.
